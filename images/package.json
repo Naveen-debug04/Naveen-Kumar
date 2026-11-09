@@ -1,0 +1,13 @@
+{
+  "name": "naveen-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Naveen Kumar Pamisetty - Full Stack & Frontend Developer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
